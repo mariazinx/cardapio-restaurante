@@ -4,7 +4,7 @@
 **Disciplina:** Programação de Computadores  
 **Professora:** Profa. Dra. Andréa Ono Sakai  
 **Período/Turma:** 2026.1
-**Este trabalho foi feito por: Maria Eduarda Alves e Higor Aparecida
+**Este trabalho foi feito por: Maria Eduarda Alves e Higor Aparecido
 ---
 
 ## 📋 Descrição do Projeto
